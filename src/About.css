@@ -3,7 +3,7 @@
   padding-top: 65px;
   padding-bottom: 45px;
   overflow: hidden;
-  height: 70vh;
+  height: 650px;
 }
 
 .about-info h1 {
@@ -94,7 +94,7 @@
   #about-header {
     /* padding-top: 2rem; */
     padding: 0 1rem;
-    height: 100vh;
+    height: 850px;
   }
 
   .about-row {

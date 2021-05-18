@@ -33,15 +33,15 @@ const Header = () => {
       });
     } else {
       window.addEventListener("scroll", () => {
-        if (window.scrollY > 0 && window.scrollY < 650) {
+        if (window.scrollY > 0 && window.scrollY < 600) {
           setUniqueId("id_home");
-        } else if (window.scrollY > 650 && window.scrollY < 1630) {
+        } else if (window.scrollY > 600 && window.scrollY < 1530) {
           setUniqueId("id_about");
-        } else if (window.scrollY > 1630 && window.scrollY < 2400) {
+        } else if (window.scrollY > 1530 && window.scrollY < 2500) {
           setUniqueId("id_education");
-        } else if (window.scrollY > 2400 && window.scrollY < 3900) {
+        } else if (window.scrollY > 2500 && window.scrollY < 3800) {
           setUniqueId("id_skills");
-        } else if (window.scrollY > 3900) {
+        } else if (window.scrollY > 3800) {
           setUniqueId("id_projects");
         }
       });
@@ -118,22 +118,22 @@ const Header = () => {
         });
       } else if (id === "about") {
         window.scrollTo({
-          top: 810,
+          top: 670,
           behavior: "smooth",
         });
       } else if (id === "education") {
         window.scrollTo({
-          top: 1640,
+          top: 1540,
           behavior: "smooth",
         });
       } else if (id === "skills") {
         window.scrollTo({
-          top: 2585,
+          top: 2515,
           behavior: "smooth",
         });
       } else if (id === "projects") {
         window.scrollTo({
-          top: 4150,
+          top: 3880,
           behavior: "smooth",
         });
       }
