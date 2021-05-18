@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio-site/static/css/main.4ca66684.chunk.css",
+    "main.js": "/portfolio-site/static/js/main.92d7e822.chunk.js",
+    "main.js.map": "/portfolio-site/static/js/main.92d7e822.chunk.js.map",
+    "runtime-main.js": "/portfolio-site/static/js/runtime-main.b0838238.js",
+    "runtime-main.js.map": "/portfolio-site/static/js/runtime-main.b0838238.js.map",
+    "static/css/2.b9b989d7.chunk.css": "/portfolio-site/static/css/2.b9b989d7.chunk.css",
+    "static/js/2.cfd4a410.chunk.js": "/portfolio-site/static/js/2.cfd4a410.chunk.js",
+    "static/js/2.cfd4a410.chunk.js.map": "/portfolio-site/static/js/2.cfd4a410.chunk.js.map",
+    "static/js/3.17c2cae8.chunk.js": "/portfolio-site/static/js/3.17c2cae8.chunk.js",
+    "static/js/3.17c2cae8.chunk.js.map": "/portfolio-site/static/js/3.17c2cae8.chunk.js.map",
+    "index.html": "/portfolio-site/index.html",
+    "static/css/2.b9b989d7.chunk.css.map": "/portfolio-site/static/css/2.b9b989d7.chunk.css.map",
+    "static/css/main.4ca66684.chunk.css.map": "/portfolio-site/static/css/main.4ca66684.chunk.css.map",
+    "static/js/2.cfd4a410.chunk.js.LICENSE.txt": "/portfolio-site/static/js/2.cfd4a410.chunk.js.LICENSE.txt",
+    "static/media/Resume.9796ef40.pdf": "/portfolio-site/static/media/Resume.9796ef40.pdf",
+    "static/media/amazon-clone.cd1388c9.png": "/portfolio-site/static/media/amazon-clone.cd1388c9.png",
+    "static/media/covid_tracker.ca92a131.png": "/portfolio-site/static/media/covid_tracker.ca92a131.png",
+    "static/media/food_ordering.beb3e52c.png": "/portfolio-site/static/media/food_ordering.beb3e52c.png",
+    "static/media/Header.css": "/portfolio-site/static/media/header-background.3b9d0a7b.jpg",
+    "static/media/music_image.bbacbc26.png": "/portfolio-site/static/media/music_image.bbacbc26.png",
+    "static/media/netflix.7e11070f.png": "/portfolio-site/static/media/netflix.7e11070f.png",
+    "static/media/profile_pic_new.fa6b57ec.jpeg": "/portfolio-site/static/media/profile_pic_new.fa6b57ec.jpeg",
+    "static/media/typing_test_image.da8c248a.png": "/portfolio-site/static/media/typing_test_image.da8c248a.png",
+    "static/media/weather_image.21d330a9.png": "/portfolio-site/static/media/weather_image.21d330a9.png",
+    "static/media/whatsapp_clone.0c0743f0.png": "/portfolio-site/static/media/whatsapp_clone.0c0743f0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0838238.js",
+    "static/css/2.b9b989d7.chunk.css",
+    "static/js/2.cfd4a410.chunk.js",
+    "static/css/main.4ca66684.chunk.css",
+    "static/js/main.92d7e822.chunk.js"
+  ]
+}
