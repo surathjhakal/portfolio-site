@@ -36,8 +36,8 @@ const Projects = () => {
             <Project
               img={whatsapp_clone}
               title="Whatsapp Clone"
-              info="Used react for frontend& firebase for backend to reflect thechanges in realtime & It's not finished yet. I had taken some reference from clever programmer channel.."
-              link="https://github.com/surathjhakal/whatsapp-clone"
+              info="Used nextjs tech for making this cool stuff and learnt a lot in this build. I had taken some reference from internet & youtube.."
+              link="https://github.com/surathjhakal/whatsapp-clone-2"
             />
             <Project
               img={netflix_image}
