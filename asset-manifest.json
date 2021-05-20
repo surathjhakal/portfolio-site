@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio-site/static/css/main.f738ff85.chunk.css",
-    "main.js": "/portfolio-site/static/js/main.d6109871.chunk.js",
-    "main.js.map": "/portfolio-site/static/js/main.d6109871.chunk.js.map",
+    "main.js": "/portfolio-site/static/js/main.04cb44b0.chunk.js",
+    "main.js.map": "/portfolio-site/static/js/main.04cb44b0.chunk.js.map",
     "runtime-main.js": "/portfolio-site/static/js/runtime-main.b0838238.js",
     "runtime-main.js.map": "/portfolio-site/static/js/runtime-main.b0838238.js.map",
     "static/css/2.b9b989d7.chunk.css": "/portfolio-site/static/css/2.b9b989d7.chunk.css",
@@ -24,13 +24,13 @@
     "static/media/profile_pic_new.fa6b57ec.jpeg": "/portfolio-site/static/media/profile_pic_new.fa6b57ec.jpeg",
     "static/media/typing_test_image.da8c248a.png": "/portfolio-site/static/media/typing_test_image.da8c248a.png",
     "static/media/weather_image.21d330a9.png": "/portfolio-site/static/media/weather_image.21d330a9.png",
-    "static/media/whatsapp_clone.0c0743f0.png": "/portfolio-site/static/media/whatsapp_clone.0c0743f0.png"
+    "static/media/whatsapp_clone.dd75c3b1.png": "/portfolio-site/static/media/whatsapp_clone.dd75c3b1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b0838238.js",
     "static/css/2.b9b989d7.chunk.css",
     "static/js/2.cfd4a410.chunk.js",
     "static/css/main.f738ff85.chunk.css",
-    "static/js/main.d6109871.chunk.js"
+    "static/js/main.04cb44b0.chunk.js"
   ]
 }
